@@ -1,5 +1,5 @@
 
-# Video COnferencing - Dyadic Version ( Full-Stack App Built with PHP, NPM, Webpack, Reactjs, and SkyWay)
+# Video Conferencing - Dyadic Version ( Full-Stack App Built with PHP, NPM, Webpack, Reactjs, and SkyWay)
 
 ## About
 Project targeting to build a simple dyadic video conferencing system using Javascript.
