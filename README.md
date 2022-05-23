@@ -1,8 +1,8 @@
 
-# Emotional Speech Labeling Interface ( Full-Stack App Built with Go(Gin), NPM, Webpack, and Reactjs)
+# Video COnferencing - Dyadic Version ( Full-Stack App Built with PHP, NPM, Webpack, Reactjs, and SkyWay)
 
 ## About
-Project targeting to solve the subjectiveness problem in emotional speech labeling task.
+Project targeting to build a simple dyadic video conferencing system using Javascript.
 
 
 ## Instructions
