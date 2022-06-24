@@ -67,6 +67,7 @@
     "react-spinners-kit": "^1.9.1",
     "reactjs-popup": "^1.5.0",
     "rebound": "^0.1.0",
+    "skyway-js": "^4.4.4",
     "styled-components": "^5.0.1",
     "tone": "^13.8.25"
   }
